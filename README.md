@@ -1,0 +1,1 @@
+# dbt-scd-type-2
